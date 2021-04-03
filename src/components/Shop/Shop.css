@@ -1,7 +1,7 @@
-.shop-container{
+.two-part-container{
     display: flex;
 }
-.product-container{
+.first-part{
     width: 70%;
     margin-left: 20px;
     margin-right: 5px;
